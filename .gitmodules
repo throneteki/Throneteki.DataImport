@@ -1,0 +1,3 @@
+[submodule "Throneteki.Data"]
+	path = Throneteki.Data
+	url = https://github.com/throneteki/Throneteki.Data.git
